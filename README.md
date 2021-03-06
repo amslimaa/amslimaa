@@ -30,9 +30,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=amslimaa&theme=radical&show_icons=true" alt="Amós Lima's Github Stats" />
 
 ### How to contact me:
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/amslimaa/) --> 
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=1781EB&labelColor=fff)](https://www.linkedin.com/in/amslimaa/) 
 [![Hotmail Badge](https://img.shields.io/badge/gmail-fff?style=for-the-badge&logo=gmail&logoColor=#e80101&labelColor=#e80101)](mailto:social.amos@gmail.com)
 
 <!-- links to your social media accounts -->
