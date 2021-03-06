@@ -2,7 +2,7 @@
 # Hi <img src="./public/wave.gif" width="30px"> , I'm Amós Lima  
 
 
-<p ><em>Computer Science Student at <a style="color:#861f95" href="https://www.ufpi.br/">Federal University of Piauí  </a><img src="https://media.tenor.com/images/bbe730bd4221ab0f0a352d5bbb253f60/tenor.gif" width="30"></br>Focused on learning <a style="color:#861f95" href="https://www.freecodecamp.org/">Free code camp</a>
+<p ><em>Computer Science Student at <a style="color:#861f95" href="https://www.ufpi.br/">Federal University of Piauí  </a><img src="https://media.tenor.com/images/bbe730bd4221ab0f0a352d5bbb253f60/tenor.gif" width="30"></br>Focused on learning <a style="color:#861f95" href="https://www.freecodecamp.org/">Free code camp</a> ,
 <a style="color:#861f95" href="https://www.rocketseat.com.br/">Rocketseat</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>
@@ -47,5 +47,6 @@
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- GIFS: https://media.giphy.com -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
