@@ -8,7 +8,7 @@
 </p>
 <br>
 
-## Technologies 
+## Technologies
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" />
@@ -26,8 +26,7 @@
 <!-- - I’m currently working on ... -->
 
 <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amslimaa&theme=radical&langs_count=8)](https://github.com/amslimaa/github-readme-statsl" />
-<img width="434px" src="https://github-readme-stats.vercel.app/api?
-username=amslimaa&theme=radical&hide=contribs,prs" />
+ <img src="https://github-readme-stats.vercel.app/api?username=amslimaa&theme=radical&show_icons=true" alt="Amós Lima's Github Stats" />
 
 ### How to contact me:
 
