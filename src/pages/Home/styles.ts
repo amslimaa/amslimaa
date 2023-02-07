@@ -14,6 +14,7 @@ export const ProfileContainer = styled.div`
 `;
 
 export const CardsContainer = styled.div`
+    margin-top: 3rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     max-width: 800px;
