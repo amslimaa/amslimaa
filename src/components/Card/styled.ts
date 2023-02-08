@@ -7,9 +7,9 @@ export const CardContainer = styled(Link)`
     text-decoration: none;
     margin: 1rem;
     padding: 1.5rem;
-    border: 1px solid ${(props) => props.theme['gray-300']};
+    border: 1px solid ${(props) => props.theme['gray-400']};
     border-radius: 10px;
-    width: 350px;
+    width: 370px;
     height: 150px;
     align-items: center;
     justify-content: center;
@@ -19,9 +19,9 @@ export const CardContainer = styled(Link)`
     
     &:hover{
         transition: 0.3s;
-        color: ${(props) => props.theme['yellow-500']};
-        border: 1px solid ${(props) => props.theme['yellow-500']};
-        cursor: pointer;
+        color: ${(props) => props.theme['green-300']};
+        border: 1px solid ${(props) => props.theme['green-300']};
+        cursor: pointer;    
     }
     &:focus {
         outline: none;
