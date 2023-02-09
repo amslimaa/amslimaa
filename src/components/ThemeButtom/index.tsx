@@ -7,7 +7,7 @@ interface Props{
 }
 
 
-export function ThemeButton<Props>({changeTheme, theme}) {
+export function ThemeButton({changeTheme, theme}: Props) {
     const isLight = theme == 'light' ? true : false;
     return(
         <ThemeButtom>
