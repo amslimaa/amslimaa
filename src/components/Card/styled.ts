@@ -7,7 +7,7 @@ export const CardContainer = styled(Link)`
     text-decoration: none;
     margin: 1rem;
     padding: 1.5rem;
-    border: 1px solid ${(props) => props.theme.colors['gray-300']};
+    border: 1px solid ${(props) => props.theme.colors['gray-400']};
     border-radius: 10px;
     width: 370px;
     align-items: center;
