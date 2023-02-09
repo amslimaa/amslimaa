@@ -18,4 +18,10 @@ export const CardsContainer = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
     max-width: 800px;
+
+    @media(max-width:800px) {
+    display: flex;
+    flex-direction: column;
+    align
+    }
 `;

@@ -12,13 +12,13 @@ export const ProfileContainer = styled.div`
         text-align: center;
         letter-spacing: -.02em;
         font-weight: bold;
-        color:  ${(props) => props.theme['gray-600']}
+        color:  ${(props) => props.theme.colors.text};
     }
     p{
         text-align: center;
         line-height: 1.5;
         font-size: 1.3rem;
-        color:  ${(props) => props.theme['gray-500']}
+        color:  ${(props) => props.theme.colors.text};
     }
 `;
 export const ImgProfile = styled.img`

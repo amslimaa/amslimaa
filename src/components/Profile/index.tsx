@@ -2,7 +2,6 @@ import { ProfileContainer, ImgProfile } from './styles'
 
 import ImageProfile from  '../../assets/ams-profile.png'
 
-
 export function Profile() {
     return (
         <ProfileContainer>
