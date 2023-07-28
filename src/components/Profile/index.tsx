@@ -7,7 +7,7 @@ export function Profile() {
         <ProfileContainer>
             <ImgProfile src={ImageProfile} />
             <h1>Amós Lima</h1>
-            <p>Cientista de dados e apaixonado por desenvolvimento de software!</p>
+            <p>Analista de Dados <a href="www.medimagem.com.br">@Med Imagem · Healthcare</a></p>
         </ProfileContainer>
     )
 }

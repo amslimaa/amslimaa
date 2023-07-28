@@ -3,7 +3,7 @@ import { CardsContainer, HomeContainer } from "./styles"
 import { Profile} from "../../components/Profile"
 
 import { Card } from "../../components/Card"
-import { ThemeButton } from "../../components/ThemeButtom"
+
 
 export function Home() {
     return (
@@ -16,9 +16,9 @@ export function Home() {
                 link="https://github.com/amslimaa"
             />
             <Card 
-                title="Kaggle"
-                text="Transforme sua paixão por dados em realizações reais, junte-se a mim no Kaggle!"
-                link="https://www.kaggle.com/amslima"
+                title="Datacamp"
+                text="Junte-se a min!"
+                link="https://www.datacamp.com/profile/amslimaa"
             />
             <Card 
                 title="Instagram"

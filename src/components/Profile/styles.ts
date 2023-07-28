@@ -14,11 +14,19 @@ export const ProfileContainer = styled.div`
         font-weight: bold;
         color:  ${(props) => props.theme.colors.text};
     }
-    p{
+    p {
         text-align: center;
         line-height: 1.5;
-        font-size: 1.3rem;
+        font-size: 1rem;
+        font-weight: bold;
         color:  ${(props) => props.theme.colors.text};
+        a{
+            text-decoration: none;
+            color :  ${(props) => props.theme.colors.text};
+            &:hover{
+                transition: 0.3s;
+                color:  ${(props) => props.theme.colors['green-300']};
+        }	
     }
 `;
 export const ImgProfile = styled.img`
