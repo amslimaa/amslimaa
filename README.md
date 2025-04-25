@@ -5,7 +5,7 @@ Data analyst @Medimagem
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amoslimaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amslimaa) [![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/amslimaaa) 
 [![GMAIL](https://img.shields.io/badge/-social.amos@gmail.com-%23E4405F.svg?logo=Gmail&logoColor=white&link=mailto:social.amos@gmail.com)](mailto:social.amos@gmail.com) 
 
-Computer Science student at @UFPI, Enthusiast in Software development and Data Analysis.
+Computer Science student at @UFPI, Data Engineer at [@DB Server · Design & Build](https://db.tec.br/), Enthusiast in Software Development and Data-Driven Solutions.
 
 ## 💻 Tech Stack:
 ### Programming languages:
