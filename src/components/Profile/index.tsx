@@ -6,8 +6,8 @@ export function Profile() {
     return (
         <ProfileContainer>
             <ImgProfile src={ImageProfile} />
-            <h1>Amós Lima</h1>
-            <p>Analista de Dados <a href="www.medimagem.com.br">@Med Imagem · Healthcare</a></p>
+            <h1>Amós Magalhães</h1>
+            <p>Data Engineer <a href="https://db.tec.br/" target="_blank" rel="noopener noreferrer">@DB Server · Design & Build</a></p>
         </ProfileContainer>
     )
 }
